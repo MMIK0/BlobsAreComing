@@ -3,3 +3,13 @@
 
 **Idea of the game is to try to survive the waves of incoming blobs and lead them to their end!**
 
+## For gameplay:
+* Check out the versioning
+* Download the zip
+* Extract the folder
+* Open the Hookshot Hooligans.exe
+* Enjoy!
+
+# Built using
+* Visual Studio
+* Unity
