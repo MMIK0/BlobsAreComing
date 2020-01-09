@@ -7,7 +7,7 @@
 * Check out the versioning
 * Download the zip
 * Extract the folder
-* Open the Hookshot Hooligans.exe
+* Open the .exe
 * Enjoy!
 
 # Built using
